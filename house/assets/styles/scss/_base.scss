@@ -1,0 +1,82 @@
+@function em($target, $context: $basepx) {
+  @if $target==0 {
+    @return 0;
+  }
+
+  @return $target / $context + 0em;
+}
+// Spacing
+$step: 16px;
+$space-025: calc(#{$step} / 4);
+$space-05: calc(#{$step} / 2);
+$space-1: $step;
+$space-2: calc(#{$step} * 2);
+$space-3: calc(#{$step} * 4);
+$space-4: calc(#{$step} * 8);
+$space-48: calc(#{$step} * 3);
+
+$step10: 10px;
+$space10-1: $step10;
+$space10-2: calc(#{$step10} * 2);
+$space10-3: calc(#{$step10} * 3);
+// Colors
+$colorBlack: #000000;
+$colorWhite: #ffffff;
+$colorLightPrimary: #3b4c9e;
+$colorPrimary: #ffffff;
+$colorDarkPrimary: #243170;
+$colorDarkBlue: #08114c;
+$colorLightBlue: #a2cddd;
+$colorLighterBlue: #c2e4ed;
+$colorLightPink: #c5c3da;
+$colorRed: #ed1c24;
+$colorGold: #fec010;
+$colorDarkestGray: #333333;
+$colorDarkGray: #979797;
+$colorGray: #c5c5c5;
+$colorLightGray: #e4e4e4;
+// Gradients
+$gradientGray: radial-gradient(circle, #f1fcff 0%, #c4c3da 100%);
+$gradientLightBlue: radial-gradient(circle, #f1fcff 0%, #bde1ea 100%);
+$gradientDarkBlue: radial-gradient(circle, #0a1033 0%, #061154 100%);
+// Font Families
+$baseFont: "Inter", sans-serif;
+// Font Size
+$fontSize1: 12px;
+$fontSize2: 14px;
+$fontSize3: 16px;
+$fontSize4: 30px;
+$fontSize5: 34px;
+$fontSize6: 64px;
+$fontSize7: 78px;
+$fontSize8: 18px;
+$fontSize9: 48px;
+$fontSize10: 13px;
+$fontSize11: 20px;
+$fontSize13: 32px;
+$fontSize14: 36px;
+$fontSize15: 24px;
+$fontSize16: 8px;
+
+// Font Weights
+$fontWeightThin: 100;
+$fontWeightLight: 300;
+$fontWeightRegular: 400;
+$fontWeightSemiBold: 500;
+$fontWeightBold: 700;
+// z-indexes
+$zIndexOverlay: 20;
+$zIndexBurgerButton: 11;
+$zIndexNavBar: 11;
+$zIndexSideMenu: 10;
+$zIndexSideNav: 9;
+$zIndexScrollProgress: 3;
+$zIndexPageContent: 3;
+$zIndexProjectsMapPoint: 2;
+$zIndexProjectsMap: 2;
+$zIndexFooterText: 2;
+$zIndexGradient: 1;
+$zIndexParticlesBackground: 1;
+// media queries
+$mobile: "only screen and (max-width : 449px)";
+$tablet: "only screen and (max-width : 899px)";

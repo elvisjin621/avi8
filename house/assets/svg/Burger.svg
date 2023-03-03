@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="21px" viewBox="0 0 11 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Burger</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-v3" transform="translate(-64.000000, -440.000000)" stroke="#000000">
+            <g id="Group-3">
+                <g id="Group-34" transform="translate(60.000000, 59.000000)">
+                    <g id="Group-32" transform="translate(0.000600, 0.524300)">
+                        <g id="Burger" transform="translate(3.999400, 380.475700)">
+                            <path d="M-9,10.5 L11,10.5" id="Path-3" transform="translate(1.000000, 10.500000) rotate(90.000000) translate(-1.000000, -10.500000) "></path>
+                            <path d="M0,10.5 L20,10.5" id="Path-3-Copy" transform="translate(10.000000, 10.500000) rotate(90.000000) translate(-10.000000, -10.500000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

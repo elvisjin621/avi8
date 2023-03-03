@@ -1,0 +1,56 @@
+{
+  "think-tank": {
+    "slug": "think-tank",
+    "title": "Think-Tank/Incubator",
+    "logo": "/images/partners/think-tank/logo-think-tank.svg",
+    "description": "Avi8ted Think-Tank 1 is a DC-based, globally focused think-tank leveraging business for the sake of culture, and never vise-versa. Serving our community as a work-play-live incubator, we act as a catalyst of innovation and opportunity via our startup community and business ecosystem.",
+    "imageSrc": "/images/partners/think-tank/hero.png",
+    "partnerLogos": [],
+    "features": [
+      {
+        "title": "",
+        "description": "<p>Culture | Tech | Real Estate</p><p>We offer entrepreneurs, creatives, students, and professionals alike the physical spaces, support services, and community necessary to bring their Avi8ted Thoughts to fruition.</p><p>Offerings<br/>- Photo/video studio w/ product light box<br/>- Event spaces w/ kitchens<br/>- Private workroom w/ bathroom <br/>- Personal/Business/Community development consulting<br/>- Community</p>",
+        "imageSrc": "/images/partners/think-tank/feature-1.png"
+      },
+      {
+        "title": "",
+        "description": "<h4>Rates</h4><div style=\"display: grid; grid-template-columns: 2fr 1fr 1fr; grid-auto-rows: 1fr; gap: 0px 8px; grid-auto-flow: row; text-align: right;\"><div style=\"text-decoration: underline; text-align: left;\">Space</div><div style=\"text-decoration: underline;\">Member</div><div style=\"text-decoration: underline;\">Non-Member</div><div style=\"text-align: left;\">Photo/Video Studio (2hr min)</div><div>$50/hr</div><div>$75/hr</div><div style=\"text-align: left;\">Event Space (3hr min)</div><div>$150/hr</div><div>$200/hr</div></div>",
+        "imageSrc": "/images/partners/think-tank/feature-2.png",
+        "cta": true
+      },
+      {
+        "title": "",
+        "description": "<p>Click the image on the right to take a virtual tour of the space. The layout of each of the four floors in the building are the same.</p><p>Password: avi8ted</p>",
+        "url": "https://my.matterport.com/show/?m=nDQKwRp5FoG",
+        "imageSrc": "/images/partners/think-tank/feature-3.png"
+      }
+    ]
+  },
+  "lodging": {
+    "slug": "lodging",
+    "title": "Lodging/Retreats",
+    "logo": "/images/partners/lodging/logo-lodging.svg",
+    "description": "Avi8ted House is a place for our ambitious membership to grow, connect, make an impact, and have fun. Understanding that creativity and productivity can happen around the clock, we offer private rooms within a beautiful suite in the same facility as the studios and workspaces.",
+    "imageSrc": "/images/partners/lodging/hero.jpg",
+    "partnerLogos": [],
+    "features": [
+      {
+        "title": "",
+        "description": "<p>Whether a couple of nights or a few months, Avi8ted House allows you the option to stay or live within our facility.</p><p>Offerings<br/>- Modern living<br/>- 12’ ceilings<br/>- Stainless steel kitchen<br/>- Private bathrooms w/ shower<br/>- Washers & Dryers<br/>- Balcony<br/>- Rooftop<br/>- Patio<br/>- Front and rear entry/exit<br/>- Street parking<br/>- Walking distance from Fort Totten Metro Station</p>",
+        "imageSrc": "/images/partners/lodging/feature-1.jpg"
+      },
+      {
+        "title": "",
+        "description": "<h5>Lodging</h5><div style=\"display: grid; grid-template-columns: 2fr 1fr 1fr; grid-auto-rows: 1fr; gap: 0px 8px; grid-auto-flow: row; text-align: right;\"><div style=\"text-decoration: underline; text-align: left;\">Space</div><div style=\"text-decoration: underline;\">Member</div><div style=\"text-decoration: underline;\">Non-Member</div><div style=\"text-align: left;\">Single Room</div><div>$120/nt</div><div>$150/nt</div><div style=\"text-align: left;\">PH Suit (4bed/4bath/1kitchen)</div><div>$700/hr</div><div>$1000/hr</div></div>",
+        "imageSrc": "/images/partners/lodging/feature-2.png",
+        "cta": true
+      },
+      {
+        "title": "",
+        "description": "<p>Click the image on the right to take a virtual tour of the space. The layout of each of the four floors in the building are the same.</p><p>Password: avi8ted</p>",
+        "url": "https://my.matterport.com/show/?m=nDQKwRp5FoG",
+        "imageSrc": "/images/partners/lodging/feature-3.png"
+      }
+    ]
+  }
+}

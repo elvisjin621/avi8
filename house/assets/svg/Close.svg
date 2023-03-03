@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Close</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.664899554">
+        <g id="Menu" transform="translate(-61.000000, -443.000000)" stroke="#FFFFFF">
+            <g id="Group-31">
+                <g id="Close" transform="translate(60.000000, 442.000000)">
+                    <path d="M-1.51310345,8.32689655 L17.5131034,7.67310345" id="Path-3" transform="translate(8.000000, 8.000000) rotate(-45.000000) translate(-8.000000, -8.000000) "></path>
+                    <path d="M-1.51310345,8.32689655 L17.5131034,7.67310345" id="Path-3" transform="translate(8.000000, 8.000000) scale(-1, 1) rotate(-45.000000) translate(-8.000000, -8.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
